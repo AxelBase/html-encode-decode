@@ -50,7 +50,7 @@ const posts = [
   <header class="blog-header">
     <h1><i class="bi bi-journal-richtext"></i> Blog: AxelBase Insights</h1>
     <p class="subtitle">
-      Explore tutorials, updates, and best practices for the Markdown Meta Tag Tester. Learn about new features, usage tips, and more from our <a href="https://github.com/axelbase/markdown-meta-tag-tester" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
+      Explore tutorials, updates, and best practices for the Markdown Meta Tag Tester. Learn about new features, usage tips, and more from our <a href="https://github.com/axelbase/html-encode-decode" target="_blank" rel="noopener noreferrer">GitHub repository</a>.
     </p>
   </header>
 
